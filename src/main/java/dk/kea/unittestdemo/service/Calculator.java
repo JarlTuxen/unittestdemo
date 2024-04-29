@@ -11,6 +11,9 @@ public class Calculator {
     }
 
     //subtract
+    public int subtractPositiveNumbers(int a, int b){
+        return a - b;
+    }
 
     //multiply
 
